@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The video walkthrough guide was a little out of date. Also the documentation walkthrough gifs seemed a little disconnected from what the texted was saying so I had to piece things together. Got it working in the end, though. 
 
 ## License
 
